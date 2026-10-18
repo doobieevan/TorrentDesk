@@ -1,0 +1,3 @@
+# Optional BitTorrent backend for the project-local Python 3.11 environment.
+# Install with: install_engine.bat
+libtorrent==2.0.15
